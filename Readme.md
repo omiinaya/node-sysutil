@@ -1,6 +1,8 @@
 
   placeholder [node](http://nodejs.org).
 
+## Usage
+
 ```js
 const sys = require('node-sysutil')
 

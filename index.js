@@ -10,9 +10,19 @@ const {
     getOSName,
     getPCName,
     getUser,
+    getPowerGUID,
+    getPowerScheme
 } = require('./lib/get')
 
+const {
+    setPCName,
+    setPCDescription,
+    setMonitorTimeout,
+    setStandbyTimeout
+} = require('./lib/set')
+
 module.exports = {
+    //get
     getMBName,
     getMBRevision,
     getMBSerial,
@@ -23,5 +33,12 @@ module.exports = {
     getMemSize,
     getMemSpeed,
     getOSName,
-    getPCName
+    getPCName,
+    getPowerGUID,
+    getPowerScheme,
+    //set
+    setPCName,
+    setPCDescription,
+    setMonitorTimeout,
+    setStandbyTimeout,
 }
