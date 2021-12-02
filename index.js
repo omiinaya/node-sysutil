@@ -1,11 +1,27 @@
 const {
+    getCPUName,
+    getDrives,
+    getGPUName,
     getMBName,
     getMBRevision,
-    getMBSerial
+    getMBSerial,
+    getMemSize,
+    getMemSpeed,
+    getOSName,
+    getPCName,
+    getUser,
 } = require('./lib/get')
 
 module.exports = {
     getMBName,
     getMBRevision,
-    getMBSerial
+    getMBSerial,
+    getUser,
+    getCPUName,
+    getDrives,
+    getGPUName,
+    getMemSize,
+    getMemSpeed,
+    getOSName,
+    getPCName
 }
