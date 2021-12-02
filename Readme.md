@@ -1,13 +1,10 @@
 
   placeholder [node](http://nodejs.org).
 
-  [![NPM Version][npm-image]][npm-url]
-  [![Windows Build][appveyor-image]][appveyor-url]
-
 ```js
-const sit = require('node-sit')
+const sys = require('node-sysutil')
 
-console.log(sit.getDrives())
+console.log(sys.getDrives())
 ```
 
 ## Installation
@@ -25,5 +22,5 @@ Installation is done using the
 [`npm install` command](https://docs.npmjs.com/getting-started/installing-npm-packages-locally):
 
 ```bash
-$ npm install node-sit
+$ npm install node-sysutil
 ```

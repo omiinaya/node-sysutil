@@ -1,5 +1,5 @@
 {
-  "name": "@omiinaya/node-sit",
+  "name": "node-sysutil",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,16 +8,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/omiinaya/node-st.git"
+    "url": "git+https://github.com/omiinaya/node-sysutil.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/omiinaya/node-st/issues"
+    "url": "https://github.com/omiinaya/node-sysutil/issues"
   },
   "publishConfig": {
     "access": "public"
   },
-  "homepage": "https://github.com/omiinaya/node-st#readme"
+  "homepage": "https://github.com/omiinaya/node-sysutil#readme"
 }
