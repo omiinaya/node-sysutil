@@ -1,7 +1,11 @@
-const get = require('./get')
-const set = require('./set')
+const {
+    getMBName,
+    getMBRevision,
+    getMBSerial
+} = require('./lib/get')
 
-module.exports={ 
-    get,
-    set
+module.exports = {
+    getMBName,
+    getMBRevision,
+    getMBSerial
 }
