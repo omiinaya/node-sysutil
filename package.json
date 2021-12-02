@@ -1,5 +1,5 @@
 {
-  "name": "node-st",
+  "name": "@omiinaya/node-st",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -15,6 +15,9 @@
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/omiinaya/node-st/issues"
+  },
+  "publishConfig": {
+    "access": "public"
   },
   "homepage": "https://github.com/omiinaya/node-st#readme"
 }
