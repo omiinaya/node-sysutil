@@ -5,7 +5,7 @@
 ```js
 const sys = require('node-sysutil')
 
-console.log(sys.getDrives())
+console.log(sys.get.Drives())
 ```
 
 ## Installation
