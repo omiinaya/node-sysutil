@@ -35,6 +35,7 @@ Get:
 * Get OS name.
 * Get available drives.
 * Get current power scheme.
+* Get CPU temp. (Upcoming)
 
 Set: 
 * Set PC name.
@@ -61,3 +62,5 @@ Do:
 * Format drives. (Upcoming)
 * Unpin taskbar bloat. (Upcoming)
 * Kill process by PiD. (Upcoming)
+* Toggle administrator account. (Upcoming)
+* Toggle Hibernation. (Upcoming)
