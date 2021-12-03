@@ -57,8 +57,9 @@ Do:
 * Find process by PiD.
 * Kill process by file name.
 * Register power plans.
-* Initialize drives. (Upcoming)
 * Shutdown system. (Upcoming)
+* Unpark CPU cores. (Upcoming)
+* Initialize drives. (Upcoming)
 * Format drives. (Upcoming)
 * Unpin taskbar bloat. (Upcoming)
 * Kill process by PiD. (Upcoming)
