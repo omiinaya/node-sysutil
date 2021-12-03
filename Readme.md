@@ -1,5 +1,4 @@
-
-  placeholder [node](http://nodejs.org).
+*Node keybinds for useful system integration utilities.*
 
 ## Usage
 
@@ -14,15 +13,25 @@ console.log(sys.getDrives())
 This is a [Node.js](https://nodejs.org/en/) module available through the
 [npm registry](https://www.npmjs.com/).
 
-Before installing, [download and install Node.js](https://nodejs.org/en/download/).
-Node.js 0.10 or higher is required.
-
-If this is a brand new project, make sure to create a `package.json` first with
-the [`npm init` command](https://docs.npmjs.com/creating-a-package-json-file).
-
 Installation is done using the
 [`npm install` command](https://docs.npmjs.com/getting-started/installing-npm-packages-locally):
 
 ```bash
 $ npm install node-sysutil
 ```
+
+## Features
+Get:
+* Get motherboard name.
+* Get motherboard serial number.
+* Get motherboard revision.
+* Get amount of RAM installed.
+* Get speed of RAM installed.
+* Get windows username.
+* Get name of PC
+* Get description of PC
+* Get name of GPU.
+* Get name of CPU.
+* Get OS name.
+* Get available drives.
+* Get current power scheme.
