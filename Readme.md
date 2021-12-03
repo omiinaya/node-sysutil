@@ -40,3 +40,24 @@ Set:
 * Set PC name.
 * Set PC description.
 * Set Monitor Timeout.
+* Set Standby Timeout.
+* Set Edge Homepage. (Upcoming)
+* Set Chrome Homepage. (Upcoming)
+* Set Lockscreen Image. (Upcoming)
+
+Do:
+* Take ownership of files/directories.
+* Execute shell scripts.
+* Execute powershell scripts.
+* Restart system.
+* Copy files.
+* Rename files.
+* Find process by file name.
+* Find process by PiD.
+* Kill process by file name.
+* Register power plans.
+* Initialize drives. (Upcoming)
+* Shutdown system. (Upcoming)
+* Format drives. (Upcoming)
+* Unpin taskbar bloat. (Upcoming)
+* Kill process by PiD. (Upcoming)
