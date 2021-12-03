@@ -1,4 +1,4 @@
-*Node keybinds for useful system integration utilities.*
+*Node bindings for useful system integration utilities.*
 
 ## Usage
 
