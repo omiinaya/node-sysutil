@@ -35,3 +35,8 @@ Get:
 * Get OS name.
 * Get available drives.
 * Get current power scheme.
+
+Set: 
+* Set PC name.
+* Set PC description.
+* Set Monitor Timeout.
