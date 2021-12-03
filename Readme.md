@@ -57,11 +57,11 @@ Do:
 * Find process by PiD.
 * Kill process by file name.
 * Register power plans.
+* Toggle administrator account.
 * Shutdown system. (Upcoming)
 * Unpark CPU cores. (Upcoming)
 * Initialize drives. (Upcoming)
 * Format drives. (Upcoming)
 * Unpin taskbar bloat. (Upcoming)
 * Kill process by PiD. (Upcoming)
-* Toggle administrator account. (Upcoming)
 * Toggle Hibernation. (Upcoming)
