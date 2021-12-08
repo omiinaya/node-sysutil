@@ -35,6 +35,7 @@ Get:
 * Get OS name.
 * Get available drives.
 * Get current power scheme.
+* Get screen resolution (Untested on multi-screen setups).
 * Get CPU temp. (Upcoming)
 
 Set: 
@@ -58,6 +59,7 @@ Do:
 * Kill process by file name.
 * Register power plans.
 * Toggle administrator account.
+* Disk cleanup.
 * Shutdown system. (Upcoming)
 * Unpark CPU cores. (Upcoming)
 * Initialize drives. (Upcoming)
