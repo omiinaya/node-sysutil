@@ -43,6 +43,7 @@ Set:
 * Set PC description.
 * Set Monitor Timeout.
 * Set Standby Timeout.
+* Set current power plan.
 * Set Edge Homepage. (Upcoming)
 * Set Chrome Homepage. (Upcoming)
 * Set Lockscreen Image. (Upcoming)
