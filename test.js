@@ -15,6 +15,7 @@ console.log(sys.get.DesktopDirectory())
 console.log(sys.get.AdminStatus())
 console.log(sys.get.ScreenResolution())
 console.log(sys.get.PowerScheme())
+
 //sys.do.formatDrive('D', false)
 //sys.set.PowerPlan('High')
 //sys.do.registerPowerPlan('Low')

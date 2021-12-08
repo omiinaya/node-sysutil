@@ -52,6 +52,7 @@ Do:
 * Copy files.
 * Disk cleanup.
 * Rename files.
+* Format drives.
 * Restart system.
 * Clear event logs.
 * Register power plans.
@@ -65,7 +66,6 @@ Do:
 * Shutdown system. (Upcoming)
 * Unpark CPU cores. (Upcoming)
 * Initialize drives. (Upcoming)
-* Format drives. (Upcoming)
 * Unpin taskbar bloat. (Upcoming)
 * Kill process by PiD. (Upcoming)
 * Toggle Hibernation. (Upcoming)
