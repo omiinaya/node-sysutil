@@ -48,18 +48,19 @@ Set:
 * Set Lockscreen Image. (Upcoming)
 
 Do:
-* Take ownership of files/directories.
+* Copy files.
+* Disk cleanup.
+* Rename files.
+* Restart system.
+* Clear event logs.
+* Register power plans.
+* Find process by PiD.
+* Find process by file name.
+* Kill process by file name.
 * Execute shell scripts.
 * Execute powershell scripts.
-* Restart system.
-* Copy files.
-* Rename files.
-* Find process by file name.
-* Find process by PiD.
-* Kill process by file name.
-* Register power plans.
 * Toggle administrator account.
-* Disk cleanup.
+* Take ownership of files/directories.
 * Shutdown system. (Upcoming)
 * Unpark CPU cores. (Upcoming)
 * Initialize drives. (Upcoming)
