@@ -53,7 +53,9 @@ Do:
 * Disk cleanup.
 * Rename files.
 * Format drives.
+* Logout system.
 * Restart system.
+* Shutdown system.
 * Clear event logs.
 * Register power plans.
 * Find process by PiD.
@@ -63,7 +65,6 @@ Do:
 * Execute powershell scripts.
 * Toggle administrator account.
 * Take ownership of files/directories.
-* Shutdown system. (Upcoming)
 * Unpark CPU cores. (Upcoming)
 * Initialize drives. (Upcoming)
 * Unpin taskbar bloat. (Upcoming)
