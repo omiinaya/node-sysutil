@@ -48,7 +48,7 @@ Set:
 * Set Chrome Homepage. (Upcoming)
 * Set Lockscreen Image. (Upcoming)
 
-Do:
+Run:
 * Copy files.
 * Disk cleanup.
 * Rename files.

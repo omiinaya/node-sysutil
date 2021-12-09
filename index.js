@@ -3,7 +3,7 @@ var sys = {
     core: require('./lib/core'),
     get: require('./lib/get'),
     set: require('./lib/set'),
-    do: require('./lib/do')
+    run: require('./lib/run')
 
 }
 
