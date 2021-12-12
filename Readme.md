@@ -65,6 +65,7 @@ Run:
 * Execute powershell scripts.
 * Toggle administrator account.
 * Take ownership of files/directories.
+* Enable/Disable location data.
 * Unpark CPU cores. (Upcoming)
 * Initialize drives. (Upcoming)
 * Unpin taskbar bloat. (Upcoming)
