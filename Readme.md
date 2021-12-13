@@ -76,6 +76,8 @@ $ npm install node-sysutil
 
 # Usage
 
+
+## Import: 
 ```js
 const sys = require('node-sysutil')
 
@@ -164,10 +166,10 @@ console.log(sys.get.ScreenResolution())
 
 ## Set:
 
-#### placeholder
+#### to fill out...
 
 ## Run
 
-#### placeholder
+#### to fill out...
 
 ## To be continued...
