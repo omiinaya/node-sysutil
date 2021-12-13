@@ -46,6 +46,7 @@ Set:
 * Set current power plan.
 * Set webcam permissions.
 * Set location permissions.
+* Set hibernation status.
 * Set administrator status.
 * Set Edge Homepage. (Upcoming)
 * Set Chrome Homepage. (Upcoming)
