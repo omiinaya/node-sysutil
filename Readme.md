@@ -49,6 +49,8 @@ Set:
 * Set Microphone permissions.
 * Set App Diagnostics permissions.
 * Set Activity History permissions.
+* Set UAC status.
+* Set Windows Transparency.
 * Set Hibernation status.
 * Set Administrator status.
 * Set Windows Defender status.
@@ -58,6 +60,7 @@ Set:
 * Set Lockscreen Image. (Upcoming)
 
 Run:
+* Flush DNS.
 * Copy files.
 * Disk cleanup.
 * Rename files.
