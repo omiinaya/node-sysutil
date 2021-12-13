@@ -12,6 +12,12 @@ Installation is done using the
 $ npm install node-sysutil
 ```
 
+Then import using:
+
+```js
+const sys = require('node-sysutil')
+```
+
 # Features
 ## Get:
 * Get motherboard name.
@@ -75,14 +81,6 @@ $ npm install node-sysutil
 * Kill process by PiD. (Upcoming)
 
 # Usage
-
-
-## Import: 
-```js
-const sys = require('node-sysutil')
-
-console.log(sys.get.Drives())
-```
 
 ## Get:
 
