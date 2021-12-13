@@ -44,6 +44,9 @@ Set:
 * Set Monitor Timeout.
 * Set Standby Timeout.
 * Set current power plan.
+* Set webcam permissions.
+* Set location permissions.
+* Set administrator status.
 * Set Edge Homepage. (Upcoming)
 * Set Chrome Homepage. (Upcoming)
 * Set Lockscreen Image. (Upcoming)
@@ -65,7 +68,6 @@ Run:
 * Execute powershell scripts.
 * Toggle administrator account.
 * Take ownership of files/directories.
-* Enable/Disable location data.
 * Unpark CPU cores. (Upcoming)
 * Initialize drives. (Upcoming)
 * Unpin taskbar bloat. (Upcoming)
