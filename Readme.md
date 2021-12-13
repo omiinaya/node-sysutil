@@ -44,12 +44,17 @@ Set:
 * Set Monitor Timeout.
 * Set Standby Timeout.
 * Set current power plan.
-* Set webcam permissions.
-* Set location permissions.
-* Set hibernation status.
-* Set administrator status.
+* Set Webcam permissions.
+* Set Location permissions.
+* Set Microphone permissions.
+* Set App Diagnostics permissions.
+* Set Activity History permissions.
+* Set Hibernation status.
+* Set Administrator status.
+* Set Windows Defender status.
 * Set Edge Homepage. (Upcoming)
 * Set Chrome Homepage. (Upcoming)
+* Set Desktop Image. (Upcoming)
 * Set Lockscreen Image. (Upcoming)
 
 Run:
@@ -73,4 +78,3 @@ Run:
 * Initialize drives. (Upcoming)
 * Unpin taskbar bloat. (Upcoming)
 * Kill process by PiD. (Upcoming)
-* Toggle Hibernation. (Upcoming)
