@@ -1,14 +1,6 @@
 *Node bindings for useful system integration utilities.*
 
-## Usage
-
-```js
-const sys = require('node-sysutil')
-
-console.log(sys.get.Drives())
-```
-
-## Installation
+# Installation
 
 This is a [Node.js](https://nodejs.org/en/) module available through the
 [npm registry](https://www.npmjs.com/).
@@ -20,8 +12,8 @@ Installation is done using the
 $ npm install node-sysutil
 ```
 
-## Features
-Get:
+# Features
+## Get:
 * Get motherboard name.
 * Get motherboard serial number.
 * Get motherboard revision.
@@ -38,7 +30,7 @@ Get:
 * Get screen resolution (Untested on multi-screen setups).
 * Get CPU temp. (Upcoming)
 
-Set: 
+## Set: 
 * Set PC name.
 * Set PC description.
 * Set Monitor Timeout.
@@ -59,7 +51,7 @@ Set:
 * Set Desktop Image. (Upcoming)
 * Set Lockscreen Image. (Upcoming)
 
-Run:
+## Run:
 * Flush DNS.
 * Copy files.
 * Disk cleanup.
@@ -81,3 +73,64 @@ Run:
 * Initialize drives. (Upcoming)
 * Unpin taskbar bloat. (Upcoming)
 * Kill process by PiD. (Upcoming)
+
+# Usage
+
+## Import:
+```js
+const sys = require('node-sysutil')
+
+console.log(sys.get.Drives())
+```
+
+## Get:
+
+#### Get Motherboard Name:
+
+```js
+console.log(sys.get.MBName())
+```
+
+#### Get Motherboard Serial Number:
+
+```js
+console.log(sys.get.MBSerial())
+```
+
+#### Get Motherboard Revision Number:
+
+```js
+console.log(sys.get.MBRevision())
+```
+
+#### Get Windows Username:
+
+```js
+console.log(sys.get.User())
+```
+
+#### Get PC Name:
+
+```js
+console.log(sys.get.PCName())
+```
+
+### Get Memory Clock Speed:
+
+```js
+console.log(sys.get.MemSpeed())
+```
+
+### Get Memory Capacity:
+
+```js
+console.log(sys.get.MemSize())
+```
+
+## Get GPU Name:
+
+```js
+console.log(sys.get.GPUName())
+```
+
+### To be continued...
