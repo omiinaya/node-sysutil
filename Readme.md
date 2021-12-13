@@ -76,7 +76,6 @@ $ npm install node-sysutil
 
 # Usage
 
-## Import:
 ```js
 const sys = require('node-sysutil')
 
@@ -115,22 +114,60 @@ console.log(sys.get.User())
 console.log(sys.get.PCName())
 ```
 
-### Get Memory Clock Speed:
+#### Get Memory Clock Speed:
 
 ```js
 console.log(sys.get.MemSpeed())
 ```
 
-### Get Memory Capacity:
+#### Get Memory Capacity:
 
 ```js
 console.log(sys.get.MemSize())
 ```
 
-## Get GPU Name:
+#### Get GPU Name:
 
 ```js
 console.log(sys.get.GPUName())
 ```
 
-### To be continued...
+#### Get CPU Name:
+
+```js
+console.log(sys.get.CPUName())
+```
+
+#### Get List of Drives:
+
+```js
+console.log(sys.get.Drives())
+```
+
+#### Get Current Power Scheme:
+
+```js
+console.log(sys.get.PowerScheme())
+```
+
+#### Get Current System Date:
+
+```js
+console.log(sys.get.SystemDate())
+```
+
+#### Get Screen Resolution:
+
+```js
+console.log(sys.get.ScreenResolution())
+```
+
+## Set:
+
+#### placeholder
+
+## Run
+
+#### placeholder
+
+## To be continued...
