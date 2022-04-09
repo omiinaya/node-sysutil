@@ -39,6 +39,7 @@ const sys = require('node-sysutil')
 ## Set: 
 * Set PC name.
 * Set PC description.
+* Set user password.
 * Set Monitor Timeout.
 * Set Standby Timeout.
 * Set current power plan.
@@ -58,7 +59,6 @@ const sys = require('node-sysutil')
 * Set Lockscreen Image. (Upcoming)
 
 ## Run:
-* Flush DNS.
 * Copy files.
 * Disk cleanup.
 * Rename files.
@@ -79,95 +79,3 @@ const sys = require('node-sysutil')
 * Initialize drives. (Upcoming)
 * Unpin taskbar bloat. (Upcoming)
 * Kill process by PiD. (Upcoming)
-
-# Usage
-
-## Get:
-
-#### Get Motherboard Name:
-
-```js
-console.log(sys.get.MBName())
-```
-
-#### Get Motherboard Serial Number:
-
-```js
-console.log(sys.get.MBSerial())
-```
-
-#### Get Motherboard Revision Number:
-
-```js
-console.log(sys.get.MBRevision())
-```
-
-#### Get Windows Username:
-
-```js
-console.log(sys.get.User())
-```
-
-#### Get PC Name:
-
-```js
-console.log(sys.get.PCName())
-```
-
-#### Get Memory Clock Speed:
-
-```js
-console.log(sys.get.MemSpeed())
-```
-
-#### Get Memory Capacity:
-
-```js
-console.log(sys.get.MemSize())
-```
-
-#### Get GPU Name:
-
-```js
-console.log(sys.get.GPUName())
-```
-
-#### Get CPU Name:
-
-```js
-console.log(sys.get.CPUName())
-```
-
-#### Get List of Drives:
-
-```js
-console.log(sys.get.Drives())
-```
-
-#### Get Current Power Scheme:
-
-```js
-console.log(sys.get.PowerScheme())
-```
-
-#### Get Current System Date:
-
-```js
-console.log(sys.get.SystemDate())
-```
-
-#### Get Screen Resolution:
-
-```js
-console.log(sys.get.ScreenResolution())
-```
-
-## Set:
-
-#### to fill out...
-
-## Run
-
-#### to fill out...
-
-## To be continued...
