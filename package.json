@@ -22,7 +22,6 @@
   },
   "homepage": "https://github.com/omiinaya/node-sysutil#readme",
   "dependencies": {
-    "@mh-cbon/aghfabsowecwn": "^2.0.4",
-    "regedit": "^5.0.0"
+    "@mh-cbon/aghfabsowecwn": "^2.0.4"
   }
 }
