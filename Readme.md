@@ -75,7 +75,7 @@ const sys = require('node-sysutil')
 * Execute powershell scripts.
 * Toggle administrator account.
 * Take ownership of files/directories.
-* Unpark CPU cores. (Upcoming)
+* Unpark CPU cores.
 * Initialize drives. (Upcoming)
 * Unpin taskbar bloat. (Upcoming)
 * Kill process by PiD. (Upcoming)
