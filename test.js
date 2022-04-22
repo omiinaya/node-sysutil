@@ -1,3 +1,4 @@
+const { set } = require('./index')
 const sys = require('./index')
 
 console.log(sys.get.MBName())
@@ -43,4 +44,6 @@ console.log(sys.get.PowerScheme())
 //sys.run.clearTemp()
 //sys.set.NetworkThrottling()
 //sys.set.PrioritizeGames()
-sys.set.Administrator()
+//sys.set.Administrator()
+//set.MonitorTimeout(0)
+//set.StandbyTimeout(0)
