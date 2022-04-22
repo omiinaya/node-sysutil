@@ -48,6 +48,7 @@ const sys = require('node-sysutil')
 * Set Microphone permissions.
 * Set App Diagnostics permissions.
 * Set Activity History permissions.
+* Set Game DVR.
 * Set UAC status.
 * Set Windows Transparency.
 * Set Hibernation status.
