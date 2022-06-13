@@ -24,7 +24,6 @@ const sys = require("node-sysutil");
 
 - Get motherboard name.
 - Get motherboard serial number.
-- Get motherboard revision.
 - Get amount of RAM installed.
 - Get speed of RAM installed.
 - Get windows username.
