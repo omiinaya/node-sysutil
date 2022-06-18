@@ -9,7 +9,6 @@ console.log(sys.get.CPUName());
 console.log(sys.get.GPUName());
 console.log(sys.get.PowerScheme());
 console.log(sys.get.MemSize());
-console.log(sys.get.ScreenResolution());
 console.log(sys.get.Users());
 console.log(sys.get.PublicIP());
 console.log(sys.get.SerialKey());
