@@ -16,6 +16,7 @@ console.log(sys.get.SerialKey());
 console.log(sys.get.MemSpeed());
 console.log(sys.get.Model());
 console.log(sys.get.Drives());
+console.log(sys.get.Test());
 //console.log(sys.core.findProcessByTitle('Task Manager'))
 //console.log(sys.core.findProcessByPiD('13640'))
 //sys.core.regList('HKLM\\SYSTEM\\CurrentControlSet\\Control\\Keyboard Layout')
