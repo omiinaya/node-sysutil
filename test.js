@@ -1,3 +1,4 @@
+const { set } = require('./index')
 const sys = require('./index')
 
 console.log(sys.get.OSName())
