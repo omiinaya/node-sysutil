@@ -1,24 +1,24 @@
-const { set } = require('./index')
-const sys = require('./index')
+const { set } = require('./index');
+const sys = require('./index');
 
-console.log(sys.get.OSName())
-console.log(sys.get.MBName())
-console.log(sys.get.MBSerial())
-console.log(sys.get.User())
-console.log(sys.get.PCName())
-console.log(sys.get.CPUName())
-console.log(sys.get.GPUName())
-console.log(sys.get.PowerScheme())
-console.log(sys.get.MemSize())
-console.log(sys.get.Users())
-console.log(sys.get.PublicIP())
-console.log(sys.get.SerialKey())
-console.log(sys.get.MemSpeed())
-console.log(sys.get.Model())
-console.log(sys.get.Drives())
-console.log(sys.get.Test())
-console.log(sys.get.Dependencies())
-sys.set.DefaultMicVolume(55)
+console.log(sys.get.OSName());
+console.log(sys.get.MBName());
+console.log(sys.get.MBSerial());
+console.log(sys.get.User());
+console.log(sys.get.PCName());
+console.log(sys.get.CPUName());
+console.log(sys.get.GPUName());
+console.log(sys.get.PowerScheme());
+console.log(sys.get.MemSize());
+console.log(sys.get.Users());
+console.log(sys.get.PublicIP());
+console.log(sys.get.SerialKey());
+console.log(sys.get.MemSpeed());
+console.log(sys.get.Model());
+console.log(sys.get.Drives());
+console.log(sys.get.Test());
+console.log(sys.get.Dependencies());
+sys.set.DefaultMicVolume(55);
 //sys.set.DefaultMicVolume()
 //console.log(sys.core.findProcessByTitle('Task Manager'))
 //console.log(sys.core.findProcessByPiD('13640'))
