@@ -1,1 +1,0 @@
-{"env": {"node": true, "es2021": true}, "extends": ["eslint:recommended"], "rules": {"no-unused-vars": "error", "no-undef": "error", "eqeqeq": "error"}}
