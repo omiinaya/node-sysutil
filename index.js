@@ -1,4 +1,4 @@
-var sys = {
+const sys = {
 
     core: require('./lib/core'),
     get: require('./lib/get'),
