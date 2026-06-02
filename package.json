@@ -1,7 +1,7 @@
 {
-  "name": "node-sysutil",
+  "name": "sysutil",
   "version": "1.1.8",
-  "description": "",
+  "description": "_Node bindings for useful system integration utilities._",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -23,5 +23,8 @@
   "homepage": "https://github.com/omiinaya/node-sysutil#readme",
   "dependencies": {
     "@mh-cbon/aghfabsowecwn": "^2.0.4"
+  },
+  "directories": {
+    "lib": "lib"
   }
 }
