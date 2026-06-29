@@ -1,0 +1,5 @@
+#!/bin/sh
+echo "🔍 Pre-commit checks..."
+if [ -f Makefile ]; then
+  make lint 2>/dev/null || true
+fi
