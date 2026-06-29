@@ -1,0 +1,22 @@
+{
+  "env": {
+    "node": true,
+    "es2020": true
+  },
+  "extends": "eslint:recommended",
+  "rules": {
+    "no-console": "off",
+    "no-unused-vars": "warn",
+    "no-eq-null": "warn",
+    "no-throw-literal": "warn",
+    "prefer-const": "warn",
+    "no-var": "error",
+    "no-undef": "error",
+    "no-empty": "warn",
+    "no-extra-boolean-cast": "warn",
+    "no-irregular-whitespace": "error",
+    "no-prototype-builtins": "warn",
+    "no-useless-escape": "warn",
+    "valid-typeof": "error"
+  }
+}
